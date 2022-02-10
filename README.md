@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="FLIX-1.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
