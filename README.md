@@ -36,9 +36,7 @@ Describe any challenges encountered while building the app.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-![Kapture 2022-02-08 at 11 21 33](https://user-images.githubusercontent.com/65309888/153467854-d0de391b-1418-4f55-9723-fbebd685c9f0.jpeg)
+![Simulator Screen Recording - iPhone 13 Pro - 2022-02-10 at 10 13 29](https://user-images.githubusercontent.com/65309888/153470637-2897735a-7ccc-46af-9961-bbdc0b6290d0.gif)
 
 
 ### Notes
