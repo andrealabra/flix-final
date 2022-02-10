@@ -36,8 +36,7 @@ Describe any challenges encountered while building the app.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-![Simulator Screen Recording - iPhone 13 Pro - 2022-02-10 at 10 13 29](https://user-images.githubusercontent.com/65309888/153470637-2897735a-7ccc-46af-9961-bbdc0b6290d0.gif)
-
+<img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
